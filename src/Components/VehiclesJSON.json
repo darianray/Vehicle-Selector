@@ -1,0 +1,41 @@
+[
+    {
+        "category": "SEDAN", "make": "Volks","model": "Cabrio", "year": "2002", "price": "$50", "stocked": true,
+        "comments": [
+            { "user": "Elton", "comment": "Fantastic Ride"
+            },
+            { "user": "Diamond", "comment": "Love the convertible top!"
+            }
+        ]
+    },
+    { "category": "SEDAN", "make": "Honda", "model": "Fit", "year": "2010", "price": "$100", "stocked": false,
+        "comments": [
+            { "user": "Martha", "comment": "A little smaller than I expected"
+            },
+            { "user": "Nathan", "comment": "Love its 4 wheel drive!"
+            },
+            {  "user": "Hasan", "comment": "Good price for experience"
+            }
+        ]
+    },
+    { "category": "SUVS", "make": "Subaru", "model": "Forester", "year": "2012", "price": "$150", "stocked": true,
+        "comments": [
+            {  "user": "Billy", "comment": "Best car of the lot"
+            }
+        ]
+    },
+    { "catergory": "SUVS", "make": "Nissan", "model": "Rogue", "year": "2019", "price": "$250", "stocked": true,
+        "comments": [
+            { "user": "Sophie", "comment": "Great car with lots of room!"
+            }
+        ]
+    },
+    { "category": "TRUCKS", "make": "Toyota", "model": "Tacoma", "year": "2010", "price": "$200", "stocked": false,
+        "comments": [
+            { "user": "Florence", "comment": "Muffler needs to be fixed"
+            },
+            { "user": "Ronald", "comment": "A fun drive!"
+            }
+        ]
+    }
+]

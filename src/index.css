@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+div#cardC.container{
+  margin-top:60px;
+  margin-right: 40px;
+}
+
+
+.card-body {
+  flex: 1 1 auto;
+  min-height: 1px;
+  padding: 0px !important;
+}
+
+div#vehicleHistory.container{
+  padding: 0px;
+}
+
+table#carTable {
+  border-collapse: collapse;
+  margin-left: 80px;
+}
+
+div#carContainer.container{
+  margin-left: 80px;
+  padding: 0px;
+  margin-top: 40px;
+}
+
+table.table.table-dark{
+  margin: 0px;
+}
+
+div.card-body{
+ padding-bottom: 10px;
+}
+.card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 0px transparent !important; 
+  border-radius: .25rem;
+  margin-bottom: 10px;
+}
